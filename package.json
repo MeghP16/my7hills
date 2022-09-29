@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "browserify-less": "0.0.1",
-    "d3": "^5.9.1",
+    "d3": "^7.6.1",
     "event-stream": "^4.0.1",
     "gulp-javascript-obfuscator": "^1.1.6",
     "path": "^0.12.7",
